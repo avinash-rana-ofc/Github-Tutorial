@@ -6,7 +6,10 @@ public class Hello {
 		System.out.println("Hello! Tetsing Git");
 		System.out.println("Comparing");
 		
-		System.out.println("Testing to check pulling");
+
+		System.out.println("Fixing conflict");
+
+	
 	}
 
 }
